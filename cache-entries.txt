@@ -1,2 +1,3 @@
 ﻿library.csun.edu;50-50-42-1
 admission.csumb.edu;100-200-25-43
+portal.csumb.edu;100-200-25-44
