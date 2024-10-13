@@ -1,0 +1,23 @@
+Resolving query: admission.csumb.edu
+1-0-0-0;1-0-0-1;100-200-25-35
+admission.csumb.edu;100-200-25-43
+
+Resolving query: portal.csumb.edu
+1-0-0-0;1-0-0-1;100-200-25-35
+portal.csumb.edu;100-200-25-44
+
+Resolving query: admission.csu.edu
+unresolved
+
+Resolving query: admission.csumb.edu
+cache
+admission.csumb.edu;100-200-25-43
+
+Current cache:
+projects.agency.gov;75-75-76-4
+portal.csumb.edu;100-200-25-44
+admission.csumb.edu;100-200-25-43
+
+
+
+

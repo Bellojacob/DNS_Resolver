@@ -1,0 +1,4 @@
+admission.csumb.edu
+portal.csumb.edu
+admission.csu.edu
+admission.csumb.edu
