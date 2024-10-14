@@ -6,7 +6,7 @@ Project: DNS Resolver
 Instructions:
     To run my project, you first will need to unzip/extract the zip file I have submitted. Then you will need to navigate (cd) to
     the project directory where you unzipped it using a command line interface. Once you are within the project directory, you 
-    will need to run the main source file which is dns_resolver.py. To run this file, enter the command python (for windows) 
+    will need to run the main source file which is dns_resolver.py. To run this file, enter the command python (for windows) python3(mac)
     followed by the file name (dns_resolver.py), along with a query file, and a cache file. This is an example from my development:
     
     My directory path:                   My command within the command line:
