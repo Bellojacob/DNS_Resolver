@@ -1,1 +1,3 @@
-statistics.bureau.gov
+portal.csumb.edu
+policies.bureau.gov
+announcements.bureau.gov

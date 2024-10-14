@@ -1,2 +1,0 @@
-first thing we should do is check our first query
-then we need to check if the cache has that info

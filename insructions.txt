@@ -1,0 +1,43 @@
+Name: Jacob Bello
+Course: CST 311
+Date: 10/13/2024
+Project: DNS Resolver
+
+Instructions:
+    To run my project, you first will need to unzip/extract the zip file I have submitted. Then you will need to navigate (cd) to
+    the project directory where you unzipped it using a command line interface. Once you are within the project directory, you 
+    will need to run the main source file which is dns_resolver.py. To run this file, enter the command python (for windows) 
+    followed by the file name (dns_resolver.py), along with a query file, and a cache file. This is an example from my development:
+    
+    My directory path:                   My command within the command line:
+    C:\Programming\cst_311\dns_resolver> python .\dns_resolver.py .\my-sample-query.txt .\cache-entries.txt  
+
+    The output will be displayed within the terminal window you are using!
+
+    File Structure:
+    -dns_resolver.py
+    -dns-queries.txt
+    -cache-entries.txt
+    -instructions.txt
+    -servers
+        -1-0-0-0.txt
+        -1-0-0-1.txt
+        -1-100-23-2.txt
+        -etc
+
+
+
+    External resources I used for this project include:
+        -ChatGPT
+            - line 9,22,38,62,78,101 - I was getting weird letters when reading and printing information from the texts files so I referred to ChatGPT
+            about what these letters were, they were hexadecimal symbols and I used encoding="utf-8-sig" to remove them
+            - line 25 - To remove the extra newline and use end='\n' instead
+            - line 86 - To print an array/list without adding newlines and separating them by ;
+            - lines 106-112 - To make sure the user has to enter 3 files through the command line, I have previously only ran python through IDE'same
+            - line 5 - ChatGPT recommended that I use a queue data structure, and recommended I use deque
+        -w3schools
+            -https://www.w3schools.com/python/python_file_open.asp
+            -https://www.w3schools.com/python/python_file_write.asp
+            -https://www.w3schools.com/python/python_dictionaries.asp
+
+
