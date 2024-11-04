@@ -1,3 +1,9 @@
-admissions.csun.edu 
-library.csun.edu 
+deals.shop.com
+update.agency.gov
+campus.college.edu
+faculty.university.edu
 myraft.csumb.edu
+cs.ucsd.edu
+apply.college.edu
+myraft.csumb.edu
+library.csumb.mil

@@ -1,0 +1,39 @@
+Resolving query: deals.shop.com
+1-0-0-0;1-100-23-3;50-50-50-2
+deals.shop.com;50-50-51-2
+
+Resolving query: update.agency.gov
+1-0-0-0;2-45-23-51;75-75-75-2
+update.agency.gov;75-75-76-4
+
+Resolving query: campus.college.edu
+cache
+campus.college.edu;100-200-2-25
+
+Resolving query: faculty.university.edu
+unresolved
+
+Resolving query: myraft.csumb.edu
+1-0-0-0;1-0-0-2;100-200-25-36
+myraft.csumb.edu;100-200-25-42
+
+Resolving query: cs.ucsd.edu
+unresolved
+
+Resolving query: apply.college.edu
+1-0-0-0;1-0-0-2;100-200-2-3
+apply.college.edu;100-200-2-22
+
+Resolving query: myraft.csumb.edu
+cache
+myraft.csumb.edu;100-200-25-42
+
+Resolving query: library.csumb.mil
+unresolved
+
+Current cache:
+campus.college.edu;100-200-2-25
+apply.college.edu;100-200-2-22
+myraft.csumb.edu;100-200-25-42
+
+

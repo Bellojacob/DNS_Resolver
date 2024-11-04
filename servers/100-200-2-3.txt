@@ -1,0 +1,5 @@
+courses.college.edu;100-200-2-21
+apply.college.edu;100-200-2-22
+info.college.edu;100-200-2-23
+registration.college.edu;100-200-2-24
+campus.college.edu;100-200-2-25
